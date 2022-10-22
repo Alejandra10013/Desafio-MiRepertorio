@@ -1,11 +1,11 @@
 const { Pool } = require("pg")
 
 const config = {
-    user: "postgres",
-    host: "localhost",
-    password: "12345",
-    database: "repertorio",
-    port: "5432",
+    user: "-",
+    host: "-",
+    password: "-",
+    database: "-",
+    port: "-",
     max: 20,
     idleTimeoutMillis: 4000,
     connectionTimeoutMillis: 0
